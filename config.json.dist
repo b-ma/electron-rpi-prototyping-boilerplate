@@ -1,1 +1,13 @@
-config.json.dist
+{
+  "local": {
+
+  },
+  "dist": [
+    {
+      "username": "pi",
+      "password": "raspberry",
+      "host": "raspberrypi.local",
+      "path": "/home/pi/dev/test"
+    }
+  ]
+}
